@@ -1,0 +1,44 @@
+    body{
+        text-align: center;
+        background-color: rgb(255, 255, 255);
+
+    }
+    table, td,th{
+        
+        border: 1px solid rgb(255, 255, 255);
+        background-color: rgb(228, 228, 228);
+    }
+    .u{
+        width:40%;
+        border-collapse: collapse;
+        border-width: 1px;
+        border-style: solid;
+        border-color: rgb(255, 187, 0);
+    }
+    .d{
+        border: blue;
+        
+        width:40%;
+        border-collapse: collapse;
+       
+    }
+    .mur{
+        text-align: center;
+        height: 20px;
+        background-color: #fff177;
+    }
+    .mr{
+        text-align: end;
+        height: 20px;
+        background-color: #dbbc2f;
+    }
+    .tol{
+        text-align: center;
+        height: 20px;
+        background-color: #86709b;
+    }
+    .tl{
+        text-align: end;
+        height: 20px;
+        background-color: #c094e9;
+    }

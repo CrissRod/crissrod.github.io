@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin+Sketch);
+@import url(https://fonts.googleapis.com/css?family=Gabriela);
+
+h1{
+    color: rgb(170, 170, 170);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    color: rgb(93, 24, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: rgb(201, 201, 201);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+body{
+    background-image: url(".././Media/fondo2.avif");
+    text-align: center;
+    background-color: black;
+}
+div.estrofa{
+    border:3px;
+    border-radius:20px ;
+    margin: 10px 50px;
+    background-color: rgba(13, 0, 190, 0.829);
+    color: white;
+    width: 50%;
+}
+div.estribillo{
+    border:3px;
+    border-radius:20px ;
+    margin: 10px 50px;
+    background-color: rgb(104, 0, 0);
+    color: white;
+    width: 50%;
+
+}

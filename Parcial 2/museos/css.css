@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: #007272;
+}
+.d1{
+    text-align: center;
+    color: orangered;
+    
+}
+div img{
+    outline: orange;
+}
+section div{
+    border: 1px;
+    border-color: orange;
+    text-orientation: sideways-right;
+}
+.d3{
+    border: 1px;
+    border-color: orange;
+    text-orientation: sideways-right;
+}
+.d4{
+    border: 1px;
+    border-color: orange;
+    text-orientation: sideways-right;
+}
+.un{
+    float: left;
+    outline: orange;
+}
+.do{
+    float: right;
+}
+.te{
+    float: left;
+}
+.cu{
+    float: right;
+}

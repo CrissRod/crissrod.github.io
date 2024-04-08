@@ -1,0 +1,21 @@
+    body{
+        text-align: center;
+        background-color: rgb(255, 255, 255);
+
+    }
+    table td,th{
+        border: 1px solid rgb(255, 255, 255);
+        background-color: rgb(228, 228, 228);
+    }
+    .mur{
+        background-color: #fff177;
+    }
+    .mr{
+        background-color: #dbbc2f;
+    }
+    .tol{
+        background-color: #86709b;
+    }
+    .tl{
+        background-color: #c094e9;
+    }
